@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import './style.css'
 import axios from 'axios'
-import { ModalMusic } from '../../modals/modalMusic'
+import { ModalMusic } from '../../Modals/modalMusic'
 import { ModalCreate} from '../../Modals/modalCreate'
  
 export const SectionMusic = () => {
