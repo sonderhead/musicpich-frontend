@@ -1,0 +1,12 @@
+.container-modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /*garante que o modal preencha a tela inteira */
+}
+
+.container-card-modal{
+    background-color: #20305b;
+    padding: 50px;
+    
+}
